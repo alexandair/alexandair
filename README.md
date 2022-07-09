@@ -5,8 +5,6 @@ You can find me on [<img src="https://raw.githubusercontent.com/FortAwesome/Font
   
 My interests: :cloud: Azure | :robot: Automation | :shell: PowerShell | :muscle: Bicep | :zap: Azure Functions | :octocat: GitHub Actions
   
-## GitHub Stats
-
 <a href="https://github.com/alexandair/alexandair">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandair&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0b05a5&langs_count=3" />
 </a>
