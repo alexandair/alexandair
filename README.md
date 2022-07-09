@@ -62,6 +62,13 @@ Here are some ideas to get you started:
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
- 
+ <!--
+ https://github.com/twitter/twemoji/tree/gh-pages
+ https://fontawesome.com/search?m=free&s=brands
+ https://fontawesome.com/v6/docs/web/
+ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+ https://docs.github.com/en/rest/emojis
+ https://colorpicker.me/
+ -->
   
  
